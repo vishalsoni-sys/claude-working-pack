@@ -1,6 +1,6 @@
 # Working-with-Claude pack
 
-Three small skills from months of building a real product with an AI coding agent. Companion to the article "12 rules I now follow when building with an AI coding agent".
+Three small skills from months of building a real product with an AI coding agent. 
 
 | File | What it does | When it switches on |
 |---|---|---|
